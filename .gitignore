@@ -1,0 +1,13 @@
+# environment variables
+.env
+    
+# spotify cache
+.cache
+
+# virtual environment
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
